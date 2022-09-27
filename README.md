@@ -7,7 +7,6 @@
 - 💬 Ask me anything about JavaScript
 - 📫 Reach me: via Linkedin @Williams Madu | Twitter @Brainbox_willy
 - ⚡ Fun fact:
-
-&nbsp;&nbsp;&nbsp;&nbsp;5th position in an really ugly code  
-                        5th position in a clear an readable code  
-                        Again using non-breaking spaces :)
+&nbsp;&nbsp;&nbsp;&nbsp;• I love **seeing others grow** 😎  
+&nbsp;&nbsp;&nbsp;&nbsp• I love **soccer games** 🟣  
+&nbsp;&nbsp;&nbsp;&nbsp• I **think about codes** for half the time
