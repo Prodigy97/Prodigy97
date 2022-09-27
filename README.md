@@ -9,5 +9,5 @@
 - ⚡ Fun facts:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I love **soccer games** 🟣  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I'm very passionate about **seeing others grow** 😎  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I **think about codes** half the time 💻
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I **think about codes** half the time 💻  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I write **clean codes** 🥇
