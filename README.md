@@ -7,6 +7,6 @@
 - 💬 Ask me anything about JavaScript
 - 📫 Reach me: via Linkedin @Williams Madu | Twitter @Brainbox_willy
 - ⚡ Fun fact:
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; • I love soccer games 🟣
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; • I love seeing other grow 😎
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; • I think about codes half the time 😀
+               • I love soccer games 🟣
+               • I love seeing other grow 😎
+               • I think about codes half the time 😀
