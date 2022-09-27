@@ -6,7 +6,7 @@
 - 🤔 I’m looking to create a community of like minded programmers
 - 💬 Ask me anything about JavaScript
 - 📫 Reach me: via Linkedin @Williams Madu | Twitter @Brainbox_willy
-- ⚡ Fun fact:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• I love **seeing others grow** 😎  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• I love **soccer games** 🟣  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• I **think about codes** for half the time
+- ⚡ Fun facts:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I love **seeing others grow** 😎  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I love **soccer games** 🟣  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I **think about codes** for half the time 💻
