@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **React, Next.js, Typescript and Node.js projects**
+- 🔭 I’m currently building solutions using **React, Next.js, Typescript and Node.js**
 - 🌱 I’m keen on connecting with Devs from all across the world
 - 👯 I’m looking to collaborate with you on problem-solving products
 - 🤔 I’m enthusiastic about creating a community of like minded programmers
