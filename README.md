@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Williams Madu</h1>
 <h3 align="center">A passionate fullstack developer based in Lagos, Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-willyy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-willyy" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/tTvF4kNw/github-profile-img.jpg" alt="dev-willyy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-willyy" alt="dev-willyy" /></a> </p>
 
