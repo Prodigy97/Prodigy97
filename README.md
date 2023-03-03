@@ -53,7 +53,7 @@
 <br>
 <hr>
 
-<p align="center"><hr><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-willyy&show_icons=true&locale=en&layout=compact" alt="dev-willyy" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-willyy&show_icons=true&locale=en" alt="dev-willyy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-willyy&show_icons=true&locale=en&layout=compact" alt="dev-willyy" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-willyy&show_icons=true&locale=en" alt="dev-willyy" /></p>
 
 <br>
 <hr>
