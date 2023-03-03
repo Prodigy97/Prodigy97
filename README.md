@@ -1,3 +1,5 @@
+<img src="https://i.postimg.cc/xCWdfjCr/coder-bg.jpg" width="100%" alt="background-img" />
+
 <h1 align="center">Hi 👋, I'm Williams Madu</h1>
 <h3 align="center">A passionate fullstack developer based in Lagos, Nigeria.</h3>
 
