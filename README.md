@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@williams.madu97](https://medium.com/@williams.madu97)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, and NodeJS**
+- 💬 Ask me about **JavaScript, TypeScript, React, and Nodejs**
 
 - 📫 How to reach me **williams.madu97@gmail.com**
 
