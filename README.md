@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://i.postimg.cc/TPKcWhtp/github-profile-img.jpg" alt="dev-willyy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-willyy" alt="dev-willyy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-willyy" alt="dev-willyy" /></a> </p>
 
 - 🔭 I’m currently working on [Rebirth Properties (A Real Estate Web Application)](https://rebirthproperties.ng)
 
@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/dev_willyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev_willyy" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_willyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_willyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-willyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-willyy" height="30" width="40" /></a>
