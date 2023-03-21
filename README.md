@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Products that can change solve people's short & long term problems**
 
-- 👨‍💻 Few of my projects are available at [https://prodigywilly.onrender.com](https://prodigywilly.onrender.com)
+- 👨‍💻 Few of my projects are available at [https://dev-willyy.onrender.com](https://dev-willyy.onrender.com)
 
 - 📝 I regularly write articles on [https://medium.com/@williams.madu97](https://medium.com/@williams.madu97)
 
@@ -30,10 +30,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-willyy" alt="dev-willyy" /></a> </p>
 
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
